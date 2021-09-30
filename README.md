@@ -12,3 +12,4 @@ Test die dritte
 
 1. java.main kann ausgeführt werden ohne Probleme
 2. Have fun.
+3. Dies ist ein Test
